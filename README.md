@@ -33,9 +33,9 @@ So I've found myself interested in code, so i learned some. I think WebGL is coo
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/Jann-Mallek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/jannmalte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/jannmallek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jannieboy_der_wahre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/jannmallek"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jannmallek&stroke=ffffff&background=22272e&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
