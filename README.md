@@ -7,12 +7,12 @@ WebGL Architect and Interaction Designer
 So I've found myself interested in code, so i learned some. I think WebGL is cool, if you know anything about it, teach me!
 
 *   🌍  I'm based in Bochum
-*   🖥️  See my portfolio at [My Portfollio (not opened)](http://jannmallek.de)
+*   🖥️  See my portfolio at [My Portfollio](http://jannmallek.com)
 *   ✉️  You can contact me at [jannmallek@web.de](mailto:jannmallek@web.de)
-*   🚀  I'm currently working on [Experiments](http://shader-setup.vercel.app)
+*   🚀  I'm currently working on [Experiments](https://labs.jannmallek.com/)
 *   🧠  I'm learning glsl and three.js
 *   🤝  I'm open to collaborating on Everything : )
-*   ⚡  I like trees
+*   ⚡  Trees are cool 🌴
 
 ### Skills
 
